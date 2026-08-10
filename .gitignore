@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Compiled output ###
+out/
+*.class
+
+### VS Code ###
+.vscode/
+
+### OS files ###
+.DS_Store
